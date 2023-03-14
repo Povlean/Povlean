@@ -10,5 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: emo
 - ⚡ Fun fact: gundam and guitar
 
+大家好啊，这里是喜欢编程的小P，平时喜欢看书、拼胶、编程、音乐、乒乓。
+
+如果你喜欢哲学、文学、古诗、轻音乐，那我们就是朋友了。
+
+目前我正在学Redis，在做黑马点评项目，下一目标是Dubbo、SpringCloud。
+
 ### Hi there my activity👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Povlean&show_icons=true&theme=radical)
