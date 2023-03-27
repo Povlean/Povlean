@@ -10,13 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: emo
 - ⚡ Fun fact: gundam and guitar
 
-大家好啊，这里是喜欢编程的Povlean，目前正在读大三啦。
+大家好啊，这里是喜欢编程的Povlean，目前正在读大三。
 
 平时喜欢看书、拼胶、编程、音乐、写作、乒乓。
 
 如果你喜欢哲学、文学、古诗、轻音乐，那我们就是朋友了。
 
-目前我正在学Redis，在做黑马点评项目，下一目标是Dubbo、SpringCloud。
+目前我正在学Redis，在做黑马点评项目，下一目标是Dubbo、SpringCloud技术。
+
+目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis
 
 ### Hi there my activity👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Povlean&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povlean&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
