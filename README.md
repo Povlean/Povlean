@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 目前我正在学Redis，在做黑马点评项目，下一目标是Dubbo、SpringCloud技术。
 
-目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis
+目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ
 
 ### Hi there my activity👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Povlean&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povlean&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
