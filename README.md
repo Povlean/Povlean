@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 如果你喜欢哲学、文学、古诗、轻音乐，那我们就是朋友了。
 
-目前我正在学Redis，在做黑马点评项目，下一目标是Dubbo、SpringCloud技术。
+目前正在写一个自己的全栈项目，Java技术栈学到了SpringCloud，每天看一点Java技术，准备五月末的时候投简历找暑假实习了。
 
 目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ
 
