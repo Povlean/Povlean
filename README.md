@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on wisdom-found
 - 🤔 I’m looking for help with myself
 - 📫 How to reach me: just remain words on this page
-- 😄 Pronouns: emo
-- ⚡ Fun fact: gundam and guitar
+- 😄 Pronouns: something was wrong
+- ⚡ Fun fact: coding! and reading!
 
 大家好啊，这里是喜欢编程的Povlean，目前正在读大三。
 
