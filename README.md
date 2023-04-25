@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in the college
-- 🌱 I’m currently learning Redis
+- 🌱 I’m currently learning SpringCloud
 - 👯 I’m looking to collaborate on wisdom-found
 - 🤔 I’m looking for help with myself
 - 📫 How to reach me: just remain words on this page
