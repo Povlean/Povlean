@@ -20,7 +20,7 @@
 - ⚡ Fun fact: coding! and reading!
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~~~+---Povlean;)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~+---Povlean;)](https://git.io/typing-svg)👋
 
 大家好啊，这里是喜欢编程的Povlean，目前正在读大三。
 
