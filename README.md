@@ -19,6 +19,7 @@
  
 - ⚡ Fun fact: coding! and reading!
 
+----------------------------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~+---Povlean;)](https://git.io/typing-svg)👋
 
