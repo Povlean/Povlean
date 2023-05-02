@@ -1,6 +1,6 @@
 # 大家好，我是Povlean👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+Povlean;)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~~~+---Povlean;)](https://git.io/typing-svg)👋
 
 Here are some ideas to get you started:
 
