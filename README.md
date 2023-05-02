@@ -1,6 +1,6 @@
 # 大家好，我是Povlean👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~~~+---Povlean;)](https://git.io/typing-svg)👋
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="512" />
 
 Here are some ideas to get you started:
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: coding! and reading!
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World~~~+---Povlean;)](https://git.io/typing-svg)👋
 
 大家好啊，这里是喜欢编程的Povlean，目前正在读大三。
 
