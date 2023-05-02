@@ -29,7 +29,9 @@
 
 如果你喜欢编程开发、哲学、文学、古诗、轻音乐，那我们就是朋友。
 
-目前正在写一个自己的全栈项目，Java技术栈学到了SpringCloud，每天看一点Java技术，准备五月末的时候投简历找暑假实习了。
+目前正在写一个Vue + SpringBoot 的管理系统全栈项目，熟悉使用JWT登录方式、加深对前后端鉴权已经拦截器校验token的业务逻辑，Java技术栈学到了SpringCloud，每天看一点Java技术，准备五月末的时候投简历找暑假实习了。
+
+现在的学习重心在JVM和JUC、数据结构与算法的理论知识，java基础、MySQL、Redis作为次要的重点知识进行学习。打好基础，万丈高楼平地起！
 
 目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ
 
