@@ -1,6 +1,7 @@
 # 大家好，我是Povlean👋
 ### Hi there Povlean👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+is+my+hobby)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in the college
