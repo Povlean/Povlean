@@ -33,6 +33,8 @@
 
 现在的学习重心在JVM和JUC、数据结构与算法的理论知识，java基础、MySQL、Redis作为次要的重点知识进行学习。打好基础，万丈高楼平地起！
 
+LeetCode算法计划开始进行！！每天写算法，迟早会变强！！
+
 目前学了：JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ
 
 ### Hi there my activity👋
