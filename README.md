@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: just remain words on this page
 
-- 😄 Pronouns: terrible
+- 😄 Pronouns: common
  
 - ⚡ Fun fact: coding! and reading!
 
