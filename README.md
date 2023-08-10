@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: common
  
-- ⚡ Fun fact: coding! and reading!
+- ⚡ Fun fact: GUMDAM AND CODING!
 
 ----------------------------
 
@@ -31,7 +31,7 @@
 
 目前正在写一个微服务的项目，熟悉使用cloud微服务组件。
 
-目前学了：JavaSE + MySQL +　JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB
+目前学了：JavaSE + MySQL +　JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx
 
 这周学习完了Docker，现阶段正在学 Spring Cloud Alibaba 和 Nginx
 
