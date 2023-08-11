@@ -31,7 +31,7 @@
 
 目前正在写一个微服务的项目，熟悉使用Spring Cloud微服务组件。
 
-目前学了：JavaSE + MySQL +　JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx
+目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx
 
 这周学习完了MongoDB的使用，在云服务器中拉取了Docker镜像，为部署项目做准备
 
