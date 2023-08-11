@@ -29,7 +29,7 @@
 
 如果你喜欢编程开发、哲学、文学、古诗、轻音乐，那我们就是朋友。
 
-目前正在写一个微服务的项目，熟悉使用cloud微服务组件。
+目前正在写一个微服务的项目，熟悉使用Spring Cloud微服务组件。
 
 目前学了：JavaSE + MySQL +　JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx
 
