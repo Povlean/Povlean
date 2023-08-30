@@ -35,5 +35,7 @@
 
 这周开始做毕业设计项目，准备秋招，povl-api
 
+目前正在成都base的启明星辰信息技术公司实习，希望大家多多指教和沟通
+
 ### Hi there my activity👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Povlean&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Povlean&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
