@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: common
  
-- ⚡ Fun fact: GUMDAM AND CODING!
+- ⚡ Fun fact: GUMDAM AND CODING! 
 
 ----------------------------
 
