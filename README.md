@@ -23,7 +23,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=竹杖芒鞋轻胜马+谁怕？+一蓑烟雨任平生;)](https://git.io/typing-svg)👋
 
-大家好啊，这里是喜欢编程的Povlean，目前正在读大三。
+大家好啊，这里是喜欢编程的Povlean，目前正在读大四。
 
 平时喜欢看书、模型、编程、音乐、写作、乒乓、篮球
 
@@ -32,8 +32,6 @@
 目前正在写一个微服务的项目，熟悉使用Spring Cloud微服务组件。
 
 目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell
-
-这周开始做毕业设计项目，准备秋招，povl-api
 
 目前正在成都base的启明星辰信息技术公司实习，希望大家多多指教和沟通
 
