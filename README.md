@@ -3,7 +3,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="384" />
 
-### - Hello World!! ---👋 
+### - Hello World!! ---👋  
 
 - 🔭 I’m currently working in the college
 
