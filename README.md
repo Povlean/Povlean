@@ -21,7 +21,7 @@
 
 ----------------------------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=竹杖芒鞋轻胜马+谁怕？+一蓑烟雨任平生;)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=既自以心为形役+奚惆怅而独悲？;)](https://git.io/typing-svg)👋
 
 大家好啊，这里是喜欢编程的Povlean，目前正在读大四。
 
