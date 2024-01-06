@@ -1,10 +1,10 @@
 # 大家好，我是Povlean👋
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="400" /> 
-
 ----------------------------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=既自以心为形役+奚惆怅而独悲？;)](https://git.io/typing-svg)👋
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="600" /> 
 
 大家好啊，这里是喜欢编程的Povlean，目前正在准备毕业设计系统。
 
