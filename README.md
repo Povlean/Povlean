@@ -2,20 +2,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="384" /> 
 
-### - Hello World!! ---👋
-
-- 🔭 I’m currently working in the college
-
-- 🌱 I’m currently learning SpringCloud
-
-- 🤔 I’m looking for help with myself
-
-- 📫 How to reach me: just remain words on this page
-
-- 😄 Pronouns: common
- 
-- ⚡ Fun fact: GUMDAM AND CODING!
-
 ----------------------------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=既自以心为形役+奚惆怅而独悲？;)](https://git.io/typing-svg)👋
