@@ -2,7 +2,7 @@
 
 ----------------------------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=既自以心为形役+奚惆怅而独悲？;)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=既自以心为形役+奚惆怅而独悲？;)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" /> 
 
