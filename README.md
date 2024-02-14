@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />  
  
-大家好啊，这里是喜欢编程的Povlean，目前正在准备毕业设计系统。 
+大家好啊，这里是喜欢编程的Povlean，目前正在准备毕业设计系统。
 
 平时喜欢看书、模型、编程、音乐、写作、乒乓、篮球
 
