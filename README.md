@@ -14,7 +14,7 @@
 
 目前已在信息安全行业参与过后端开发，在职期间完成的模块有：主机监控模块 + 工单管理模块 + 硬件告警模块
 
-目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell
+目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell 
 
 目前正在成都base的启明星辰信息技术公司实习，希望大家多多指教和沟通
 
