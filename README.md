@@ -16,7 +16,7 @@
 
 目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell 
 
-目前正在成都base的启明星辰信息技术公司实习，希望大家多多指教和沟通
+在启明星辰实习过，目前正在冲刺春招！！！
 
 ### Hi there my activity👋
 
