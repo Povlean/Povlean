@@ -12,11 +12,11 @@
 
 如果你喜欢编程开发、哲学、文学、古诗、轻音乐，那我们就是朋友
 
-目前已在信息安全行业参与过后端开发，在职期间完成的模块有：主机监控模块 + 工单管理模块 + 硬件告警模块
+目前已在启明星辰参与过后端开发，在职期间完成的模块有：主机监控模块 + 工单管理模块 + 硬件告警模块
 
 目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell 
 
-在启明星辰实习过，目前正在冲刺春招！！！
+目前在成都磊数科技有限公司工作，目前在负责智慧工地项目的开发
 
 ### Hi there my activity👋
 
