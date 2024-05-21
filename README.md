@@ -16,8 +16,6 @@
 
 目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell 
 
-目前在成都磊数科技有限公司工作，目前在负责智慧工地项目的开发
-
 ### Hi there my activity👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=桃李春风一杯酒+江湖夜雨十年灯;)](https://git.io/typing-svg)👋
