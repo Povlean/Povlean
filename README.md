@@ -12,7 +12,7 @@
 
 如果你喜欢编程开发、哲学、文学、古诗、轻音乐，那我们就是朋友
 
-目前已在启明星辰参与过后端开发，在职期间完成的模块有：主机监控模块 + 工单管理模块 + 硬件告警模块
+参与过后端开发，在职期间完成的模块有：主机监控模块 + 工单管理模块 + 硬件告警模块
 
 目前学了：JavaSE + MySQL + JavaWeb + Spring + SpringMVC + MyBatis + MyBatis-Plus + SpringBoot + Redis + RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell 
 
