@@ -39,14 +39,14 @@
 
 - [成都磊数科技有限公司](http://buildigi.com/channels/173.html) &emsp; 📌 2024-04-15—— Now
 
-  - 工作岗位：Java开发
+  - 工作岗位：Java后端开发
   - 工作内容：维护并优化智慧工地项目
  
  <img align="right" width="88" src="https://img.phb123.com/uploads/allimg/221008/812-22100Q124250-L.jpeg" />
 
 - [启明星辰信息技术集团股份有限公司](https://www.venustech.com.cn/) &emsp; 📌 2023-06-12 —— 2023-12-28
 
-  - 工作岗位：Java开发实习
+  - 工作岗位：Java后端实习
   - 工作内容：负责后端的Zabbix二次开发(监控 + 工单 + 告警)
 
 </td></tr>
