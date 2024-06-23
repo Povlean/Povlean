@@ -27,7 +27,7 @@
 <p>&emsp;&emsp;目前学过的技术有JavaSE + MySQL + JavaWeb + SSM + MyBatis-Plus + SpringBoot + Redis</p>
 <p>&emsp;&emsp;RabbitMQ + Docker + GateWay + Nacos + MongoDB + Nginx + Shell</p>
 <p>&emsp;&emsp;作为一名非互联网行业的Java程序员，我需要补充一些其他方面的技术来维持我对编程的热爱</p>
-<p>&emsp;&emsp;我目前正在学C51单片机和Flutter移动端前端开发，用于做一些有趣的开发</p>
+<p>&emsp;&emsp;我目前正在学习Python爬虫技术</p>
 
 </td></tr>
 
