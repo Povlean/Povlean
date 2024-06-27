@@ -4,7 +4,7 @@
  
  <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Coding ... change world";)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=技术.....改变世界;)](https://git.io/typing-svg)
    
  </div>
  
