@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.4ca10b5934a7deb0ebec8fe8c7ef8794?rik=3cGkM9e7M7ZlTQ&riu=http%3a%2f%2fwww.buildigi.com%2fimages%2flogo_rgb.png&ehk=nOW8Cb3pO5Pm2QSvR63lJrABQzZ%2fSzxPUUJxV6Z34UQ%3d&risl=&pid=ImgRaw&r=0" />
 
-- [成都磊数科技有限公司](http://buildigi.com/channels/173.html) &emsp; 📌 2024-04-15—— Now
+- [成都磊数科技有限公司](http://buildigi.com/channels/173.html) &emsp; 📌 2024-04-15—— 2024-07-05
 
   - 工作岗位：Java后端开发
   - 工作内容：维护并优化智慧工地项目
